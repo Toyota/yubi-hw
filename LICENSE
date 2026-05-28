@@ -1,0 +1,87 @@
+Copyright 2026 Toyota Motor Corporation
+
+This Source describes Open Hardware and is licensed under the CERN-OHL-W v2.
+
+You may redistribute and modify this documentation and make products using it
+under the terms of the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W v2).
+
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W v2) for applicable conditions.
+
+Source location: https://github.com/Toyota/yubi-hw
+
+As per CERN-OHL-W v2 section 4, should you produce hardware based on this documentation,
+you must maintain the Source available and provide it to recipients of the hardware.
+
+
+--------------------------------------------------------------------------------
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W v2)
+--------------------------------------------------------------------------------
+
+Preamble
+
+This CERN Open Hardware Licence version 2 - Weakly Reciprocal (CERN-OHL-W v2) is
+designed for the licensing of hardware designs. The licensed material is a
+hardware design, and the licence covers the documentation.
+
+The CERN-OHL-W is a licence which ensures that modifications to the licensed
+material are shared under the same licence, while allowing combination with
+other works under different terms.
+
+Definitions
+
+"Licence" means this CERN-OHL-W.
+
+"Source" means information that is sufficient to make, test, modify and distribute
+a product based on the licensed material.
+
+"Product" means any device made using the Source.
+
+"Licensee" means any person exercising rights under this Licence.
+
+"Licensor" means the person granting rights under this Licence.
+
+Grant of rights
+
+The Licensor grants the Licensee the right to use, reproduce, modify, distribute,
+and make Products using the Source.
+
+Conditions
+
+1. If you distribute the Source or modified Source, you must do so under the
+   terms of this Licence.
+
+2. If you make modifications, you must make the modified Source available.
+
+3. You may combine the Source with other materials under different licences,
+   provided that the Source itself remains under CERN-OHL-W.
+
+4. If you distribute a Product, you must provide access to the Source used to
+   create it, or indicate where it can be obtained.
+
+Disclaimer
+
+The Source is provided "as is", without any warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, and non-infringement.
+
+Limitation of liability
+
+In no event shall the Licensor be liable for any damages arising from the use
+of the Source or Products.
+
+Termination
+
+This Licence terminates automatically if you fail to comply with its terms.
+
+Reinstatement
+
+You may reinstate your rights if you correct the violation within a reasonable time.
+
+General
+
+This Licence represents the complete agreement concerning the subject matter.
+
+For full details, see:
+https://cern-ohl.web.cern.ch/
