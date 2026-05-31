@@ -69,8 +69,8 @@
 | Daiki Fukunaga | Frontier Research Center, Toyota Motor Corporation | Mechanical Design |
 | Jumpei Arima | Frontier Research Center, Toyota Motor Corporation | Concept Design |
 | Yuki Noguchi | Frontier Research Center, Toyota Motor Corporation | Concept Design |
-| Makoto Sugiura| AI Robot Association | Data collection rig Design |
-| Takehiko Ohkawa| AI Robot Association | Data collection concept Design |
+| Makoto Sugiura| AI Robot Association | Data Collection Rig Design |
+| Takehiko Ohkawa| AI Robot Association | Data Collection Concept Design |
 
 ## License
 
