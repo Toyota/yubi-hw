@@ -1,0 +1,24 @@
+YUBI Portable data collection rig_PARTS LIST,,,,,,,,,
+,,,,,,,,,
+No.,PART No.,TYPE,PART NAME,Qty.,MATERIAL,REMARKS,FILE NAME (STL/STEP),Vendor,Link
+1,chest_mount_3s_hmd,3D-PRINTED,chest_mount_3s_hmd,1,ABS,,chest_mount_3s_hmd,,
+2,Display_case,3D-PRINTED,Display_case,1,ABS,,Display_case,,
+3,Display_plate,3D-PRINTED,Display_plate,1,ABS,,Display_plate,,
+4,,STANDARD,Laptop,1,,,,,
+5,,STANDARD,Quest 3s,1,,128GB,,amazon,https://amzn.asia/d/asShIRH
+6,2024009100,STANDARD,3.5 inch display,1,,,,amazon,https://www.amazon.co.jp/dp/B0DRF9Q566
+7,ELP-USBFHD01M-L180,STANDARD,Wrist Camera,2,,,,alibaba,https://japanese.alibaba.com/product-detail/ELP-USB-Fisheye-Camera-Wide-angle-1601061809265.html
+8,U3H-H043BK/E,STANDARD,USB hub,2,,,,amazon,https://www.amazon.co.jp/dp/B0DVGPF6D5
+9,Anker 332,STANDARD,USB-C hub,1,,,,amazon,https://www.amazon.co.jp/dp/B0BQMSXFP7
+10,RAD56,STANDARD,USB cable C-C (2-pack),1,,,,amazon,https://www.amazon.co.jp/dp/B0CX56FJJ6
+11,10495,STANDARD,USB-A extension cable (1m),1,,,,amazon,https://www.amazon.co.jp/dp/B086ZGYCLD
+12,10550,STANDARD,micro HDMI to HDMI cable (1m),1,,,,amazon,https://www.amazon.co.jp/dp/B08P5QSG5M
+13,UG-USBC-25052,STANDARD,USB Type C to RJ45,1,,,,amazon,https://www.amazon.co.jp/dp/B0CD1FDKT1
+14,80421,STANDARD,LAN cable (1m),1,,,,amazon,https://www.amazon.co.jp/dp/B086DPWMQM
+15,BQ-CC71AM-K,STANDARD,Rechargeable battery & charger set,1,,,,amazon,https://amzn.asia/d/0atTDXjR
+16,CB2.5-4,STANDARD,Hex socket bolt,2,SCM435,,,misumi,https://jp.misumi-ec.com/vona2/detail/110300239070/?PNSearch=CB2.5-4
+17,CB3-6,STANDARD,Hex socket bolt,2,SCM435,,,misumi,https://jp.misumi-ec.com/vona2/detail/110300239070/?HissuCode=CB3-6
+18,SKNTR5,STANDARD,M5 nut,1,,,,misumi,https://jp.misumi-ec.com/vona2/detail/110300250540/
+19,CINSTAV/E,STANDARD,Chest strap,1,,,,insta360,https://store.insta360.com/jp/product/chest_strap?c=2034&from=accessory
+20,,STANDARD,Rubber cord,1,,,,amazon,https://www.amazon.co.jp/dp/B08KXVQFQF
+21,DGB-S043BK,STANDARD,Backpack,1,,,,amazon,https://www.amazon.co.jp/dp/B095RLRDGR
