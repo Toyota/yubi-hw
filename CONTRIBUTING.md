@@ -2,6 +2,13 @@
 
 Thank you for your interest in contributing to YUBI!
 
+## How to Contribute
+
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature/your-change`)
+3. Commit your changes
+4. Push to the branch and open a Pull Request
+
 ## Branch Strategy
 
 This repository uses the following branch strategy.
