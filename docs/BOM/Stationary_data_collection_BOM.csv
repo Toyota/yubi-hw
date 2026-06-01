@@ -1,0 +1,32 @@
+YUBI Stationary data collection desk_PARTS LIST,,,,,,,,,
+,,,,,,,,,
+No.,PART No.,TYPE,PART NAME,Qty.,MATERIAL,REMARKS,FILE NAME (STL/STEP),Vendor,Link
+1,Quest_mount,3D-PRINTED,Quest_mount,1,PLA_BLACK,,Quest_mount,,
+2,realsense435_mount,3D-PRINTED,realsense435_mount,1,PLA_BLACK,,realsense435_mount,,
+3,,STANDARD,Laptop,1,,,,,
+4,,STANDARD,Quest 3s,1,,128GB,,amazon,https://amzn.asia/d/asShIRH
+5,,STANDARD,Realsense435i,1,,,,amazon,https://www.amazon.co.jp/dp/B07MWR2YJB
+6,U3H-H043BK/E,STANDARD,USB hub,2,,,,amazon,https://www.amazon.co.jp/dp/B0DVGPF6D5
+7,PQUSB102401,STANDARD,USB cable A-C,4,,,,amazon,https://www.amazon.co.jp/dp/B0CLPG8Z4T
+8,RAD56,STANDARD,USB cable C-C (2-pack),1,,,,amazon,https://www.amazon.co.jp/dp/B0CX56FJJ6
+9,LB-6C6S,STANDARD,Power strip,1,,,,amazon,https://www.amazon.co.jp/SAYBOUR-%E5%80%8B%E5%88%A5%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81-%E9%9B%B7%E3%82%AC%E3%83%BC%E3%83%89%E7%AF%80%E9%9B%BB%E3%82%BF%E3%83%83%E3%83%97-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E7%9C%81%E3%82%A8%E3%83%8D-AC%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88/dp/B091Q3PJ76?th=1
+10,BQ-CC71AM-K,STANDARD,Rechargeable battery & charger set,1,,,,amazon,https://amzn.asia/d/0atTDXjR
+11,HFS6-3030-1340,STANDARD,HFS6-3030-1340,2,,"Series 6, Square 30x30mm, 1-row slot, 4-side slot",,misumi,
+12,HFS6-3030-730,STANDARD,HFS6-3030-730,2,,"Series 6, Square 30x30mm, 1-row slot, 4-side slot",,misumi,
+13,NEFS6-3030-1400,STANDARD,NEFS6-3030-1400,1,,"Series 6, N-type, Square 30x30mm, 1-row slot, 4-side slot",,misumi,
+14,NEFS6-3030-500,STANDARD,NEFS6-3030-500,2,,"Series 6, N-type, Square 30x30mm, 1-row slot, 4-side slot",,misumi,
+15,NEFS6-3030-625.5,STANDARD,NEFS6-3030-625.5,1,,"Series 6, N-type, Square 30x30mm, 1-row slot, 4-side slot",,misumi,
+16,NEFS6-3060-1200,STANDARD,NEFS6-3060-1200,2,,"Series 6, N-type, Rectangular 30x60mm, 2-row slot, 4-side slot",,misumi,
+17,NEFS6-3060-1340,STANDARD,NEFS6-3060-1340,2,,"Series 6, N-type, Rectangular 30x60mm, 2-row slot, 4-side slot",,misumi,
+18,HBLFSD6,STANDARD,HBLFSD6,10,,Reverse bracket with protrusion,,misumi,
+19,HBLFSN6,STANDARD,HBLFSN6,31,,Reverse bracket with protrusion,,misumi,
+20,CBM6-12,STANDARD,CBM6-12,100,SCM435,Hex socket bolt for aluminum frame,,misumi,
+21,GFC6-3030-B,STANDARD,GFC6-3030-B,7,,"Series 6 (slot width 8mm), frame cap for aluminum frame",,misumi,
+22,HFC6-3060-B,STANDARD,HFC6-3060-B,2,,"Series 6 (slot width 8mm), frame cap for aluminum frame",,misumi,
+23,HNTP6-6,STANDARD,HNTP6-6,100,,"Series 6 (slot width 8mm), post-insert spring nut for 30/60 square aluminum frame",,misumi,
+24,,STANDARD,Foot pedal,1,,,,amazon,https://amzn.asia/d/2aQH9AC
+25,C-clamp,STANDARD,Clamp (2-pack),3,,,,amazon,https://www.amazon.co.jp/Refoiner-%E3%83%84%E3%83%BC%E3%83%AB%E5%9B%BA%E5%AE%9A%E7%94%A8/dp/B0FMDF4FQL
+26,SKG-R1070BK,STANDARD,Rubber rope with J-hooks on both ends,1,,,,misumi,https://jp.misumi-ec.com/vona2/detail/223013895687/
+27,AB200-W Black,STANDARD,Cable ties,1,,,,amazon,https://www.amazon.co.jp/dp/B000THQ4ZO
+28,,STANDARD,Rubber cord,1,,,,amazon,https://www.amazon.co.jp/dp/B08KXVQFQF
+29,E7,STANDARD,Flexispot E7 standing desk (top 140x70),1,,,,flexispot,https://www.flexispot.jp/e7-set.html?srsltid=AfmBOopAdXlEPLmeXNZ6NbJayiAJpXR7XQ8RgopcW_UmOQsH_2Mnfeve

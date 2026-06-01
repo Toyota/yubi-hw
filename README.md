@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://global.toyota/en/mobility/frontier-research/" target="_blank">
-    <img src="media/frc-logo-yoko.png" alt="Frontier Research Center, Toyota Motor Corporation" width="300">
+    <img src="media/frc-logo-yoko.png" alt="Frontier Research Center, Toyota Motor Corporation" height="250">
   </a>
 </p>
 
@@ -22,6 +22,14 @@
 
 - **YUBI Glove** — A wearable device for collecting finger motion data during teleoperation.
 - **YUBI Gripper** — A robot-mounted gripper actuated by DYNAMIXEL servos for dexterous manipulation.
+- **Stationary data collection desk** — A desk-mounted rig for data collection.
+- **Portable data collection rig** — A wearable rig for portable data collection.
+
+<p align="center">
+  <img src="media/Stationary.png" alt="Stationary data collection desk" height="250">
+  &nbsp;&nbsp;
+  <img src="media/Portable.png" alt="Portable data collection rig" height="250">
+</p>
 
 ## Repository Structure
 
@@ -29,10 +37,14 @@
 .
 ├── STEP/
 │   ├── glove/       # YUBI Glove (teleoperation device) STEP files
-│   └── gripper/     # YUBI Gripper (robot-mounted, DYNAMIXEL) STEP files
+│   ├── gripper/     # YUBI Gripper (robot-mounted, DYNAMIXEL) STEP files
+│   └── portable/    # Portable data collection rig STEP files
 ├── STL/
-│   ├── glove/       # YUBI Glove STL files (for 3D printing)
-│   └── gripper/     # YUBI Gripper STL files (for 3D printing)
+│   ├── glove/                  # YUBI Glove STL files (for 3D printing)
+│   ├── gripper/                # YUBI Gripper STL files (for 3D printing)
+│   ├── portable/               # Portable data collection rig STL files
+│   ├── stationary/             # Stationary data collection desk STL files
+│   └── flange/                 # Flange STL files
 ├── docs/
 │   ├── BOM/                    # Bill of Materials (CSV)
 │   └── AssemblyInstruction/    # Assembly guides (PDF)
@@ -57,6 +69,8 @@
 | Daiki Fukunaga | Frontier Research Center, Toyota Motor Corporation | Mechanical Design |
 | Jumpei Arima | Frontier Research Center, Toyota Motor Corporation | Concept Design |
 | Yuki Noguchi | Frontier Research Center, Toyota Motor Corporation | Concept Design |
+| Makoto Sugiura| AI Robot Association | Data Collection Rig Design |
+| Takehiko Ohkawa| AI Robot Association | Data Collection Concept Design |
 
 ## License
 
