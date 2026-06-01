@@ -1,5 +1,7 @@
 # Contributing Guide
 
+Thank you for your interest in contributing to YUBI!
+
 ## Branch Strategy
 
 This repository uses the following branch strategy.
