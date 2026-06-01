@@ -12,6 +12,8 @@
   <img src="media/teaser_v3.png" alt="YUBI Overview" width="600">
 </p>
 
+🌐 **Project page:** [yubi.airoa.io](https://yubi.airoa.io/)
+
 **YUBI** is a finger-driven dexterous manipulation system developed by Frontier Research Center, Toyota Motor Corporation.
 
 ## Part Overview
