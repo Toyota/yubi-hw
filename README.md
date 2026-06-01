@@ -71,6 +71,8 @@
 | Yuki Noguchi | Frontier Research Center, Toyota Motor Corporation | Concept Design |
 | Makoto Sugiura| AI Robot Association | Data Collection Rig Design |
 | Takehiko Ohkawa| AI Robot Association | Data Collection Concept Design |
+| Masayoshi Tsuchinaga | Frontier Research Center, Toyota Motor Corporation | Core Maintainer |
+| Yusuke Mizuoka | Frontier Research Center, Toyota Motor Corporation | Maintainer |
 
 ## License
 
