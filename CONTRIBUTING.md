@@ -74,6 +74,16 @@ Before merging, please check that:
 - No internal or confidential information is included
 - The change follows the branch naming rule
 
+## Guidelines
+
+- CAD files should be provided in both STEP and STL formats
+- Update the relevant BOM (CSV) if parts are added or changed
+- Keep file names consistent with the existing naming convention
+
+## Reporting Issues
+
+Please use [GitHub Issues](../../issues) to report bugs or suggest improvements.
+
 ## License
 
 By contributing, you agree that your contributions will be licensed under [CERN-OHL-W v2](LICENSE).
