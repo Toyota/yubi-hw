@@ -76,6 +76,22 @@
 | Masayoshi Tsuchinaga | Frontier Research Center, Toyota Motor Corporation | Core Maintainer |
 | Yusuke Mizuoka | Frontier Research Center, Toyota Motor Corporation | Maintainer |
 
+## Citation
+
+If you use YUBI in your research, please cite:
+
+```bibtex
+@misc{ohkawa2026yubi,
+      title={{YUBI}: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale},
+      author={Takehiko Ohkawa and Jumpei Arima and Yuki Noguchi and Masatoshi Tateno and Makoto Sugiura and Takuya Okubo and Kengo Ikeuchi and Yuma Shin and Hiroki Nishizawa and Naoaki Kanazawa and Yuki Wakayama and Daiki Fukunaga and Koshi Makihara and Tomohiro Motoda and Floris Erich and Yukiyasu Domae and Tatsuya Matsushima and Yohishiro Okumatsu and Kei Ota},
+      year={2026},
+      eprint={2606.10244},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2606.10244},
+}
+```
+
 ## License
 
 This project is licensed under the [CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W v2)](LICENSE).
