@@ -83,7 +83,7 @@ If you use YUBI in your research, please cite:
 ```bibtex
 @misc{ohkawa2026yubi,
       title={{YUBI}: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale},
-      author={Takehiko Ohkawa and Jumpei Arima and Yuki Noguchi and Masatoshi Tateno and Makoto Sugiura and Takuya Okubo and Kengo Ikeuchi and Yuma Shin and Hiroki Nishizawa and Naoaki Kanazawa and Yuki Wakayama and Daiki Fukunaga and Koshi Makihara and Tomohiro Motoda and Floris Erich and Yukiyasu Domae and Tatsuya Matsushima and Yohishiro Okumatsu and Kei Ota},
+      author={Takehiko Ohkawa and Jumpei Arima and Yuki Noguchi and Masatoshi Tateno and Makoto Sugiura and Takuya Okubo and Kengo Ikeuchi and Yuma Shin and Hiroki Nishizawa and Naoaki Kanazawa and Yuki Wakayama and Daiki Fukunaga and Koshi Makihara and Tomohiro Motoda and Floris Erich and Yukiyasu Domae and Tatsuya Matsushima and Yoshihiro Okumatsu and Kei Ota},
       year={2026},
       eprint={2606.10244},
       archivePrefix={arXiv},
