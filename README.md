@@ -67,7 +67,8 @@
 
 | Name | Affiliation | Role |
 |------|-------------|------|
-| Yoshihiro Okumatsu | Frontier Research Center, Toyota Motor Corporation | Project Lead |
+| Kazutomo Misao | Frontier Research Center, Toyota Motor Corporation | Project Lead |
+| Yoshihiro Okumatsu | Frontier Research Center, Toyota Motor Corporation | Project Sub-Lead |
 | Daiki Fukunaga | Frontier Research Center, Toyota Motor Corporation | Mechanical Design |
 | Jumpei Arima | Frontier Research Center, Toyota Motor Corporation | Concept Design |
 | Yuki Noguchi | Frontier Research Center, Toyota Motor Corporation | Concept Design |
