@@ -63,6 +63,12 @@
 
 - [yubi-sw](https://github.com/airoa-org/yubi-sw) — Software (control, teleoperation)
 
+## Commercial Use
+
+Commercial manufacturing and sale of products based on YUBI are permitted
+subject to CERN-OHL-W v2. See the [Commercial Use Guidelines](COMMERCIAL.md)
+for practical guidance.
+
 ## Contributors
 
 | Name | Affiliation | Role |
