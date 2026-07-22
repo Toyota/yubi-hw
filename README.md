@@ -104,12 +104,3 @@ If you use YUBI in your research, please cite:
 This project is licensed under the [CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W v2)](LICENSE).
 
 Copyright 2026 Toyota Motor Corporation
-
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
-INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-Please see the CERN-OHL-W v2 for applicable conditions.
-
-Source location: https://github.com/Toyota/yubi-hw
-
-As per CERN-OHL-W v2 section 4, should you produce hardware based on this documentation,
-you must maintain the Source available and provide it to recipients of the hardware.
