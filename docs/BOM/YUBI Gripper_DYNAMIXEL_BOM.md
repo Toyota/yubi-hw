@@ -1,5 +1,3 @@
-# 仮保存用
-
 | YUBI Gripper Assy_DYNAMIXEL_PARTS LIST |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  | YUBI Gripper Assy_DYNAMIXEL |

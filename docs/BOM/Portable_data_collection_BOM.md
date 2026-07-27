@@ -1,5 +1,3 @@
-# 仮保存用
-
 | YUBI Portable data collection rig_PARTS LIST |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |

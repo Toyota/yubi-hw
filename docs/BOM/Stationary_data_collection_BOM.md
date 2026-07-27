@@ -1,5 +1,3 @@
-# 仮保存用
-
 | YUBI Stationary data collection desk_PARTS LIST |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |
