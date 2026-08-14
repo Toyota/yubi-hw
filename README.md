@@ -40,7 +40,8 @@
 ├── STEP/
 │   ├── glove/       # YUBI Glove (teleoperation device) STEP files
 │   ├── gripper/     # YUBI Gripper (robot-mounted, DYNAMIXEL) STEP files
-│   └── portable/    # Portable data collection rig STEP files
+│   ├── portable/    # Portable data collection rig STEP files
+│   └── flange/      # Flange STEP files
 ├── STL/
 │   ├── glove/                  # YUBI Glove STL files (for 3D printing)
 │   ├── gripper/                # YUBI Gripper STL files (for 3D printing)
@@ -52,6 +53,15 @@
 │   └── AssemblyInstruction/    # Assembly guides (PDF)
 └── media/                      # Images for documentation
 ```
+
+## Supported Robot Flanges
+
+The `flange/` directories provide the parts for mounting the YUBI Gripper to a robot arm. Each supported arm uses a robot-specific flange together with a YUBI-side attachment, as listed below.
+
+| Robot arm | Flange | YUBI-side attachment |
+|-----------|--------|----------------------|
+| Franka    | `FRANKA_FLANGE`  | `YUBI_ATTACHMENT` |
+| OpenArm   | `OPENARM_FLANGE` | `YUBI_ATTACHMENT` |
 
 ## Getting Started
 
