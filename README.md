@@ -62,6 +62,7 @@ The `flange/` directories provide the parts for mounting the YUBI Gripper to a r
 |-----------|--------|----------------------|
 | Franka    | `FRANKA_FLANGE`  | `YUBI_ATTACHMENT` |
 | OpenArm   | `OPENARM_FLANGE` | `YUBI_ATTACHMENT` |
+| Unitree G1 | `UNITREE_G1_FRANGE` | N/A |
 
 ## Getting Started
 
